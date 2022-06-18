@@ -1,0 +1,1 @@
+alter table tb_fraud add column customer_nome varchar(20);
